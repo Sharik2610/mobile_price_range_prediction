@@ -30,4 +30,6 @@ Use Cases:
 
 Consumers: Mobile shoppers can use the model to estimate the price range of a mobile phone based on their desired features, aiding in purchase decisions.
 
-Mobile Manufacturers: Mobile manufacturers can leverage the model to optimize pricing strategies by understanding how different features impact pricing.
+
+ **Data Science Problem Statement**
+ 
